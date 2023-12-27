@@ -3,6 +3,7 @@ RENCANA KONTEN ZEE
 - Javascript
   * ES6
   * Framework JS
+- Fundamental Data Dasar
 - PHP
 - CSS
 - Vlog
