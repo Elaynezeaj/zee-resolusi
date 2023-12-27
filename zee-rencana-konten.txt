@@ -1,6 +1,8 @@
 RENCANA KONTEN ZEE
 
 - Javascript
+  * ES6
+  * Framework JS
 - PHP
 - CSS
 - Vlog
